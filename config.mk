@@ -6,6 +6,8 @@
 
 # Overlays
 PRODUCT_PACKAGE_OVERLAYS += vendor/addons/overlay/common
+PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
+    vendor/addons/overlay/common/packages/apps/Launcher3
 
 PRODUCT_COPY_FILES += \
     vendor/addons/prebuilt/product/etc/sysconfig/ambient_data.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/ambient_data.xml \
