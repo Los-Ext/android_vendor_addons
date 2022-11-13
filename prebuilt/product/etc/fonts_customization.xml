@@ -374,6 +374,30 @@
         <font weight="300" style="normal">Hanged.ttf</font>
     </family>
 
+    <!-- Evolve Sans -->
+    <family customizationType="new-named-family" name="evolvesans">
+      <font weight="300" style="normal">MADE_Evolve_Sans_Light.ttf</font>
+      <font weight="400" style="italic">MADE_Evolve_Sans_Regular.ttf</font>
+      <font weight="500" style="normal">MADE_Evolve_Sans_Medium.ttf</font>
+      <font weight="700" style="italic">MADE_Evolve_Sans_Bold.ttf</font>
+    </family>
+    <alias name="evolvesans-light" to="evolvesans" weight="300" />
+    <alias name="evolvesans-regular" to="evolvesans" weight="400" />
+    <alias name="evolvesans-medium" to="evolvesans" weight="500" />
+    <alias name="evolvesans-bold" to="evolvesans" weight="700" />
+
+    <!-- Evo Sans -->
+    <family customizationType="new-named-family" name="evosans">
+      <font weight="300" style="normal">MADE_Evolve_Sans_Light_EVO.ttf</font>
+      <font weight="400" style="italic">MADE_Evolve_Sans_Regular_EVO.ttf</font>
+      <font weight="500" style="normal">MADE_Evolve_Sans_Medium_EVO.ttf</font>
+      <font weight="700" style="italic">MADE_Evolve_Sans_Bold_EVO.ttf</font>
+    </family>
+    <alias name="evosans-light" to="evosans" weight="300" />
+    <alias name="evosans-regular" to="evosans" weight="400" />
+    <alias name="evosans-medium" to="evosans" weight="500" />
+    <alias name="evosans-bold" to="evosans" weight="700" />
+
     <!-- HarmonyOS Sans -->
     <family customizationType="new-named-family" name="harmonyos-sans">
       <font weight="100" style="normal">HarmonyOS-Sans-Thin.ttf</font>
