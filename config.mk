@@ -21,6 +21,12 @@ PRODUCT_COPY_FILES += \
     vendor/addons/prebuilt/product/etc/sysconfig/preinstalled-packages-product-pixel-2022-and-newer.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-product-pixel-2022-and-newer.xml \
     vendor/addons/prebuilt/product/etc/sysconfig/preinstalled-packages-product-pixel-2023-and-newer.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-product-pixel-2023-and-newer.xml
 
+# Brightness slider styles
+PRODUCT_PACKAGES += \
+    BrightnessSliderFilledOverlay \
+    BrightnessSliderThinOverlay \
+    BrightnessSliderTranslucentOverlay
+
 # Clocks (SystemUI)
 PRODUCT_PACKAGES += \
     SystemUIClocks-BigNum \
