@@ -116,6 +116,7 @@ PRODUCT_PACKAGES += \
     FontEvoSansOverlay \
     FontEvolveSansOverlay \
     FontFifa2018Overlay \
+    FontGoogleSansOverlay \
     FontGrandHotelOverlay \
     FontHarmonySansOverlay \
     FontLatoOverlay \
