@@ -60,6 +60,7 @@ PRODUCT_PACKAGES += \
     ClockFontHangedOverlay \
     ClockFontHarmonySansOverlay \
     ClockFontHotSweatOverlay \
+    ClockFontIosOverlay \
     ClockFontKGOnlyHopeOverlay \
     ClockFontKaramuruhOverlay \
     ClockFontKingthingsOverlay \
