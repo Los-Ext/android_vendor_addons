@@ -306,17 +306,20 @@ PRODUCT_PACKAGES += \
     AuroraSignalOverlay \
     BarsSignalOverlay \
     ButterflySignalOverlay \
+    BananaSignalOverlay \
     CircleSignalOverlay \
     DaunSignalOverlay \
     DecSignalOverlay \
     DeepSignalOverlay \
     DoraSignalOverlay \
+    DottedSignalOverlay \
     EqualSignalOverlay \
     FaintUISignalOverlay \
     FanSignalOverlay \
     ForlornSignalOverlay \
     GradiconSignalOverlay \
     HuaweiSignalOverlay \
+    HeartbeatSignalOverlay \
     InsideSignalOverlay \
     IosSignalOverlay \
     MiniSignalOverlay \
@@ -337,9 +340,32 @@ PRODUCT_PACKAGES += \
     WindowsSignalOverlay \
     WingSignalOverlay \
     XperiaSignalOverlay \
-    ZigZagSignalOverlay
+    ZigZagSignalOverlay \
+    AiirOSignalOverlay \
+    BoldSignalOverlay \
+    CapsuleSignalOverlay \
+    GlummySignalOverlay \
+    HollowSignalOverlay \
+    IOSSignalOverlay \
+    JapaneseSignalOverlay \
+    KoalaSignalOverlay \
+    LinealSignalOverlay \
+    LinearSignalOverlay \
+    RouterSignalOverlay \
+    HeartbeatSignalOverlay \
+    ScaleSignalOverlay \
+    SpiralSignalOverlay \
+    TowerSignalOverlay \
+    WaffleSignalOverlay \
+    LineDotSignalOverlay \
+    NumberSignalOverlay \
+    WindySignalOverlay \
+    MicroWaveSignalOverlay \
+    SharpSignalOverlay \
+    NinjaSignalOverlay \
+    SleekSignalOverlay
 
-# WiFi Icons
+# Wi-Fi Icons
 PRODUCT_PACKAGES += \
     AuroraWiFiOverlay \
     BarsWiFiOverlay \
@@ -356,7 +382,28 @@ PRODUCT_PACKAGES += \
     WavyWiFiOverlay \
     WeedWiFiOverlay \
     XperiaWiFiOverlay \
-    ZigZagWiFiOverlay
+    ZigZagWiFiOverlay \
+    AiirOWiFiOverlay \
+    BoldWiFiOverlay \
+    CapsuleWiFiOverlay \
+    GlummyWiFiOverlay \
+    HollowWiFiOverlay \
+    IosWiFiOverlay \
+    JapaneseWiFiOverlay \
+    KoalaWiFiOverlay \
+    LinealWiFiOverlay \
+    LinearWiFiOverlay \
+    RouterWiFiOverlay \
+    ScaleWiFiOverlay \
+    SpiralWiFiOverlay \
+    TowerWiFiOverlay \
+    WaffleWiFiOverlay \
+    LineDotWiFiOverlay \
+    NumberWiFiOverlay \
+    WindyWiFiOverlay \
+    LandscapeWiFiOverlay \
+    MicroWaveWiFiOverlay \
+    SharpWiFiOverlay
 
 # Themes
 PRODUCT_PACKAGES += \
