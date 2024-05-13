@@ -254,6 +254,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     A11QSUI
 
+# Navbar
+PRODUCT_PACKAGES += \
+    LineageNavigationBarNarrowSpace \
+    LineageNavigationBarNoSpace
+
 # Signal Icons
 PRODUCT_PACKAGES += \
     AquariumSignalOverlay \
