@@ -113,6 +113,7 @@ PRODUCT_PACKAGES += \
     FontComfortaaOverlay \
     FontComicSansOverlay \
     FontCookieRunOverlay \
+    FontCooljazzOverlay \
     FontCoolstoryOverlay \
     FontExotwoOverlay \
     FontEvoSansOverlay \
