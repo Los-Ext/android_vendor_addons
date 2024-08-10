@@ -212,6 +212,11 @@ PRODUCT_PACKAGES += \
     IconPackVictorSettingsOverlay \
     IconPackVictorSystemUIOverlay \
     IconPackVictorThemePickerOverlay \
+    IconPackNostalgicAndroidOverlay \
+    IconPackNostalgicLauncherOverlay \
+    IconPackNostalgicSettingsOverlay \
+    IconPackNostalgicSystemUIOverlay \
+    IconPackNostalgicThemePickerOverlay \
     IconPackXperiaAndroidOverlay \
     IconPackXperiaSettingsOverlay \
     IconPackXperiaSystemUIOverlay
