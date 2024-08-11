@@ -4,6 +4,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+PRODUCT_PACKAGE_OVERLAYS += vendor/addons/overlay/common
+
 # Clocks (SystemUI)
 PRODUCT_PACKAGES += \
     SystemUIClocks-BigNum \
