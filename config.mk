@@ -122,6 +122,8 @@ PRODUCT_PACKAGES += \
     ClockFontIOSOverlay \
     ClockFontHerculesOverlay \
     ClockFontSlimOverlay \
+    ClockFontNtype82Overlay \
+    ClockFontSubwayOverlay \
     FontAccuratistOverlay \
     FontAclonicaOverlay \
     FontAmaranteOverlay \
