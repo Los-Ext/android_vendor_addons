@@ -139,7 +139,8 @@ PRODUCT_PACKAGES += \
     FontStoropiaOverlay \
     FontSurferOverlay \
     FontRosemaryOverlay \
-    FontUbuntuOverlay
+    FontUbuntuOverlay \
+    FontRookeryOverlay
 
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
