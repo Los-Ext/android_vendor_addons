@@ -166,7 +166,8 @@ PRODUCT_PACKAGES += \
     FontStoropiaOverlay \
     FontSurferOverlay \
     FontRosemaryOverlay \
-    FontUbuntuOverlay
+    FontUbuntuOverlay \
+    FontRookeryOverlay
 
 # Icon Packs
 PRODUCT_PACKAGES += \
