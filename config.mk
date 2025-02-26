@@ -347,4 +347,4 @@ PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,vendor/addons/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
 
 # GameProps
-include vendor/addons/gameprops/game_props.mk
+TARGET_PRODUCT_PROP += vendor/addons/gameprops/game.prop
