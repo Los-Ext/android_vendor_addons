@@ -43,6 +43,7 @@ PRODUCT_PACKAGES += \
     ClockFontFifa2018Overlay \
     ClockFontFloorlightOverlay \
     ClockFontGautsMotelUpperRightOverlay \
+    ClockFontGoogleSansFlexOverlay \
     ClockFontGrandHotelOverlay \
     ClockFontHangedOverlay \
     ClockFontHarmonySansOverlay \
@@ -105,6 +106,7 @@ PRODUCT_PACKAGES += \
     FontFifa2018Overlay \
     FontGoogleSansOverlay \
     FontGrandHotelOverlay \
+    FontGoogleSansFlexOverlay \
     FontHarmonySansOverlay \
     FontLatoOverlay \
     FontLinotteOverlay \
