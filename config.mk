@@ -22,14 +22,14 @@ PRODUCT_COPY_FILES += \
     vendor/addons/prebuilt/product/etc/sysconfig/preinstalled-packages-product-pixel-2023-and-newer.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-product-pixel-2023-and-newer.xml
 
 # BetterQS
-PRODUCT_PACKAGES += \
-    BetterQS
+#PRODUCT_PACKAGES += \
+#    BetterQS
 
 # Brightness slider styles
-PRODUCT_PACKAGES += \
-    BrightnessSliderFilledOverlay \
-    BrightnessSliderThinOverlay \
-    BrightnessSliderTranslucentOverlay
+#PRODUCT_PACKAGES += \
+#    BrightnessSliderFilledOverlay \
+#    BrightnessSliderThinOverlay \
+#    BrightnessSliderTranslucentOverlay
 
 # Clocks (SystemUI)
 PRODUCT_PACKAGES += \
