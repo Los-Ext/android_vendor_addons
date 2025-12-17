@@ -253,27 +253,17 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     IconShapeArchOverlay \
     IconShapeCloudyOverlay \
-    IconShapeCylinderOverlay \
     IconShapeFlowerOverlay \
     IconShapeFourSidedCookieOverlay \
     IconShapeHeartOverlay \
-    IconShapeHexagonOverlay \
     IconShapeIosOverlay \
     IconShapeLeafOverlay \
     IconShapeMeowOverlay \
-    IconShapePebbleOverlay \
     IconShapeRoundedHexagonOverlay \
-    IconShapeRoundedRectOverlay \
     IconShapeSamsungOverlay \
     IconShapeScrollOverlay \
     IconShapeSevenSidedCookieOverlay \
-    IconShapeStretchedOverlay \
-    IconShapeSquareOverlay \
-    IconShapeSquircleOverlay \
-    IconShapeStretchedOverlay \
-    IconShapeTaperedRectOverlay \
-    IconShapeTeardropOverlay \
-    IconShapeVesselOverlay
+    IconShapeStretchedOverlay
 
 # Signal Icons
 PRODUCT_PACKAGES += \
