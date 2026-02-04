@@ -182,73 +182,6 @@ PRODUCT_PACKAGES += \
     FontUbuntuOverlay \
     FontRookeryOverlay
 
-# Icon Packs
-PRODUCT_PACKAGES += \
-    IconPackAcherusAndroidOverlay \
-    IconPackAcherusLauncherOverlay \
-    IconPackAcherusSettingsOverlay \
-    IconPackAcherusSystemUIOverlay \
-    IconPackAuroraAndroidOverlay \
-    IconPackAuroraSystemUIOverlay \
-    IconPackCircularAndroidOverlay \
-    IconPackCircularLauncherOverlay \
-    IconPackCircularSettingsOverlay \
-    IconPackCircularSystemUIOverlay \
-    IconPackCircularThemePickerOverlay \
-    IconPackFilledAndroidOverlay \
-    IconPackFilledLauncherOverlay \
-    IconPackFilledSettingsOverlay \
-    IconPackFilledSystemUIOverlay \
-    IconPackFilledThemePickerOverlay \
-    IconPackGradiconAndroidOverlay \
-    IconPackGradiconSystemUIOverlay \
-    IconPackKaiAndroidOverlay \
-    IconPackKaiLauncherOverlay \
-    IconPackKaiSettingsOverlay \
-    IconPackKaiSystemUIOverlay \
-    IconPackKaiThemePickerOverlay \
-    IconPackLornAndroidOverlay \
-    IconPackLornSystemUIOverlay \
-    IconPackOOSAndroidOverlay \
-    IconPackOOSLauncherOverlay \
-    IconPackOOSSettingsOverlay \
-    IconPackOOSSystemUIOverlay \
-    IconPackOOSThemePickerOverlay \
-    IconPackOutlineAndroidOverlay \
-    IconPackOutlineLauncherOverlay \
-    IconPackOutlineSettingsOverlay \
-    IconPackOutlineSystemUIOverlay \
-    IconPackPlumpyAndroidOverlay \
-    IconPackPlumpySystemUIOverlay \
-    IconPackPUIAndroidOverlay \
-    IconPackPUILauncherOverlay \
-    IconPackPUISettingsOverlay \
-    IconPackPUISystemUIOverlay \
-    IconPackPUIThemePickerOverlay \
-    IconPackRoundedAndroidOverlay \
-    IconPackRoundedLauncherOverlay \
-    IconPackRoundedSettingsOverlay \
-    IconPackRoundedSystemUIOverlay \
-    IconPackRoundedThemePickerOverlay \
-    IconPackSamAndroidOverlay \
-    IconPackSamLauncherOverlay \
-    IconPackSamSettingsOverlay \
-    IconPackSamSystemUIOverlay \
-    IconPackSamThemePickerOverlay \
-    IconPackVictorAndroidOverlay \
-    IconPackVictorLauncherOverlay \
-    IconPackVictorSettingsOverlay \
-    IconPackVictorSystemUIOverlay \
-    IconPackVictorThemePickerOverlay \
-    IconPackNostalgicAndroidOverlay \
-    IconPackNostalgicLauncherOverlay \
-    IconPackNostalgicSettingsOverlay \
-    IconPackNostalgicSystemUIOverlay \
-    IconPackNostalgicThemePickerOverlay \
-    IconPackXperiaAndroidOverlay \
-    IconPackXperiaSettingsOverlay \
-    IconPackXperiaSystemUIOverlay
-
 # Icon Shapes
 PRODUCT_PACKAGES += \
     IconShapeArchOverlay \
@@ -264,64 +197,6 @@ PRODUCT_PACKAGES += \
     IconShapeScrollOverlay \
     IconShapeSevenSidedCookieOverlay \
     IconShapeStretchedOverlay
-
-# Signal Icons
-PRODUCT_PACKAGES += \
-    AquariumSignalOverlay \
-    AuroraSignalOverlay \
-    BarsSignalOverlay \
-    ButterflySignalOverlay \
-    CircleSignalOverlay \
-    DaunSignalOverlay \
-    DecSignalOverlay \
-    DeepSignalOverlay \
-    DoraSignalOverlay \
-    EqualSignalOverlay \
-    FaintUISignalOverlay \
-    FanSignalOverlay \
-    ForlornSignalOverlay \
-    GradiconSignalOverlay \
-    HuaweiSignalOverlay \
-    InsideSignalOverlay \
-    IosSignalOverlay \
-    MiniSignalOverlay \
-    NothingDotSignalOverlay \
-    OdinSignalOverlay \
-    PillsSignalOverlay \
-    PlumpySignalOverlay \
-    RelSignalOverlay \
-    RomanSignalOverlay \
-    RoundSignalOverlay \
-    ScrollSignalOverlay \
-    SeaSignalOverlay \
-    SneakySignalOverlay \
-    StackSignalOverlay \
-    StrokeSignalOverlay \
-    WannuiSignalOverlay \
-    WavySignalOverlay \
-    WindowsSignalOverlay \
-    WingSignalOverlay \
-    XperiaSignalOverlay \
-    ZigZagSignalOverlay
-
-# WiFi Icons
-PRODUCT_PACKAGES += \
-    AuroraWiFiOverlay \
-    BarsWiFiOverlay \
-    DoraWiFiOverlay \
-    FaintUIWiFiOverlay \
-    ForlornWiFiOverlay \
-    GradiconWiFiOverlay \
-    InsideWiFiOverlay \
-    NothingDotWiFiOverlay \
-    PlumpyWiFiOverlay \
-    RoundWiFiOverlay \
-    SneakyWiFiOverlay \
-    StrokeWiFiOverlay \
-    WavyWiFiOverlay \
-    WeedWiFiOverlay \
-    XperiaWiFiOverlay \
-    ZigZagWiFiOverlay
 
 # Themes
 PRODUCT_PACKAGES += \
